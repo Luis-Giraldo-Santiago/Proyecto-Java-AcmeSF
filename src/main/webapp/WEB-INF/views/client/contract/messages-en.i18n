@@ -1,0 +1,34 @@
+# messages-en.i18n
+
+client.contract.form.title = Contract form 
+client.contract.list.title = Listing of Contracts
+
+client.contract.form.label.code = Code:
+client.contract.form.label.instantiationMoment = InstantiationMoment: 
+client.contract.form.label.providerName = ProviderName:
+client.contract.form.label.customerName = CustomerName:
+client.contract.form.label.goals = Goals:
+client.contract.form.label.budget = Budget:
+client.contract.form.label.project = Projects
+		
+client.contract.form.button.progressLog = ProgressLog
+client.contract.form.button.publish = Publish
+
+client.contract.list.label.code = Code
+client.contract.list.label.instantiationMoment = InstantiationMoment
+client.contract.list.label.providerName = ProviderName
+client.contract.list.label.customerName = CustomerName
+client.contract.list.label.goals = Goals
+client.contract.list.label.budget = Budget
+client.contract.form.label.projectTitle = Project Title
+
+client.contract.list.button.create = Create contract
+client.contract.form.button.create = Create
+client.contract.form.button.update = Update contract
+client.contract.form.button.delete = Delete contract
+
+client.contract.form.error.duplicated = This code is taken
+client.contract.form.error.higher-hour = The budget cannot be greater than 10000 hours
+client.contract.form.error.lower-hous = The budget cannot be lower than 0 hours
+client.contract.form.error.lower-than-cost = The budget cannot be greater than the cost of the project 
+client.contract.form.error.higher-than-cost = The sum of the budgets of the contracts associated with the project exceed the cost of the project

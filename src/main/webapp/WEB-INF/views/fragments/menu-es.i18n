@@ -1,0 +1,101 @@
+# menu-es.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+﻿# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link-rafmolgar2 = 32086160X: Molina García, Rafael
+master.menu.anonymous.favourite-link-luigirsan1 = 29537801M: Giraldo Santiago, Luis
+master.menu.anonymous.favourite-link-alevarmun1 = 21015313Y: Vargas Muñiz, Alejandro
+master.menu.anonymous.favourite-link-davguifer = 45970470W: Guillén Fernández, David
+master.menu.anonymous.favourite-link-davvarmun = 21015312M: Vargas Muñiz, David
+master.menu.any.list.claim = Reclamaciones
+
+# master.menu.administrator ###################################################
+
+administrator.claim.list.title = Listado de reclamaciones
+administrator.banner.list.title = Listado de pancartas
+master.menu.administrator = Administrador
+master.menu.administrator.dashboard = Panel de indicadores
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.populate-initial = Poblar BD (inicial)
+master.menu.administrator.populate-sample = Poblar BD (ejemplos)
+master.menu.administrator.shut-down = Parar el sistema
+master.menu.administrator.list.claim = Reclamaciones
+master.menu.administrator.list.banner = Pancarta
+
+# master.menu.auditor ###################################################
+
+master.menu.auditor = Auditor
+master.menu.auditor.list.codeAudit = Auditorías de código
+master.menu.auditor.dashboard = Panel de control
+
+# master.menu.client ###################################################
+
+master.menu.client = Cliente
+master.menu.client.dashboard = Panel de indicadores
+master.menu.client.list = Lista de contratos
+
+# master.menu.manager ########################################################
+
+master.menu.manager = Manager
+master.menu.manager.list.project = Proyectos
+master.menu.manager.list.userStory = Historias de Usuario
+master.menu.manager.dashboard = Panel de control
+master.menu.manager.my-userStories = Mis historias de usuario
+
+
+# master.menu.developer ########################################################
+
+master.menu.developer = Desarrollador
+master.menu.developer.list.trainingModule = Módulos de entrenamiento
+master.menu.developer.list.trainingSession = Sesiones de entrenamiento
+master.menu.developer.dashboard = Panel de control
+
+# master.menu.authenticated ########################################################
+
+master.menu.authenticated = Autentificado
+master.menu.authenticated.list.claim = Reclamaciones
+
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumidor
+master.menu.consumer.favourite-link = Enlace favorito
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.client = Datos del cliente
+master.menu.user-account.become-client = Hazte cliente
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.manager = Datos de manager
+master.menu.user-account.become-manager = Hazte manager
+master.menu.user-account.developer = Datos de desarrollador
+master.menu.user-account.become-developer = Hazte desarrollador
+master.menu.user-account.sponsor = Datos de patrocinador
+master.menu.user-account.become-sponsor = Hazte patrocinador
+master.menu.user-account.auditor = Datos de auditor
+master.menu.user-account.become-auditor = Hazte auditor
+
+# master.menu.sponsor ##########################################################
+
+master.menu.sponsor.list.sponsorship = Patrocinios
+sponsor.sponsorship.list.title = Lista de Patrocinios
+master.menu.sponsor.list.invoice = Facturas
+sponsor.invoice.list.title = Lista de Facturas
+master.menu.sponsor.dashboard = Panel de indicadores

@@ -1,0 +1,3 @@
+key,key:userAccount,firm,professionalID,certifications,link
+auditor-01,user-account-auditor-01,firma-auditor-01,ID-auditor-1,(certificacion1;certificacion2),http://AcmeJob
+auditor-02,user-account-auditor-02,firma-auditor-02,ID-auditor-2,(certificacion1;certificacion2),http://HellowWorld

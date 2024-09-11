@@ -1,0 +1,38 @@
+# messages-es.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+
+sponsor.invoice.list.title = Facturas
+sponsor.invoice.form.title = Detalles de facturas
+
+sponsor.Invoice.list.label.code = Código
+sponsor.Invoice.list.label.registrationTime = Tiempo de registro
+sponsor.Invoice.list.label.dueDate = Fecha de vencimiento
+sponsor.Invoice.list.label.quantity = Cantidad
+sponsor.Invoice.list.label.tax = Impuesto
+sponsor.Invoice.list.label.link = Enlace
+sponsor.Invoice.list.label.published = Publicado
+
+sponsor.Invoice.list.button.create = Crear
+
+sponsor.Invoice.form.label.code = Código
+sponsor.Invoice.form.label.registrationTime = Tiempo de registro
+sponsor.Invoice.form.label.dueDate = Fecha de vencimiento
+sponsor.Invoice.form.label.quantity = Cantidad
+sponsor.Invoice.form.label.tax = Impuesto
+sponsor.Invoice.form.label.link = Enlace
+sponsor.Invoice.form.label.published = Publicado
+sponsor.Invoice.form.error.duplicated = El código de la factura está duplicado	
+
+sponsor.Invoice.form.button.create = Crear	
+sponsor.Invoice.form.button.update = Actualizar
+sponsor.Invoice.form.button.delete = Borrar
+sponsor.Invoice.form.button.publish = Publicar

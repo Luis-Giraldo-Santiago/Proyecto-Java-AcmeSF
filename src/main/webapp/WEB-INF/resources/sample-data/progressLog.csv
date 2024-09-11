@@ -1,0 +1,26 @@
+key,record_id,completeness,comment,registration_moment,responsible_person,published,key:contract
+progress_log-00,PG-AA-0000,50.0,Comentario,2002/03/20 00:00,persona1,true,contract-01
+progress_log-01,PG-AA-0001,0.01,Comentario,2002/03/20 00:00,persona1,true,contract-01
+progress_log-02,PG-AA-0002,0.02,Comentario,2002/03/20 00:00,persona1,true,contract-01
+progress_log-03,PG-AA-0003,99.99,Comentario,2002/03/20 00:00,persona1,true,contract-01
+progress_log-04,PG-AA-0004,100.0,Comentario,2002/03/20 00:00,persona1,true,contract-01
+progress_log-05,PG-AA-0005,50.0,C,2002/03/20 00:00,persona1,true,contract-01
+progress_log-06,PG-AA-0006,50.0,Co,2002/03/20 00:00,persona1,true,contract-01
+progress_log-07,PG-AA-0007,50.0,Esto es una descripción con 99 caracteres ---------------------------------------------------------,2002/03/20 00:00,persona1,true,contract-01
+progress_log-08,PG-AA-0008,50.0,Esto es una descripción con 100 caracteres ---------------------------------------------------------,2002/03/20 00:00,persona1,true,contract-01
+progress_log-09,PG-AA-0009,50.0,プロジェクト,2002/03/20 00:00,persona1,true,contract-01
+progress_log-10,PG-AA-0010,50.0,<h1>HolaMundo<h1>,2002/03/20 00:00,persona1,true,contract-01
+progress_log-11,PG-AA-0011,50.0,'OR 'A' = 'A,2002/03/20 00:00,persona1,true,contract-01
+progress_log-12,PG-AA-0012,50.0,Comentario,2000/01/01 00:00,persona1,true,contract-01
+progress_log-13,PG-AA-0013,50.0,Comentario,2000/01/01 00:01,persona1,true,contract-01
+progress_log-14,PG-AA-0014,50.0,Comentario,2022/07/29 23:59,persona1,true,contract-01
+progress_log-15,PG-AA-0015,50.0,Comentario,2022/07/30 00:00,persona1,true,contract-01
+progress_log-16,PG-AA-0016,50.0,Comentario,2000/02/29 00:00,persona1,true,contract-01
+progress_log-17,PG-AA-0017,50.0,Comentario,2002/03/20 00:00,p,true,contract-01
+progress_log-18,PG-AA-0018,50.0,Comentario,2002/03/20 00:00,pe,true,contract-01
+progress_log-19,PG-AA-0019,50.0,Comentario,2002/03/20 00:00,Esto es una persona con 74 caracteres ------------------------------------,true,contract-01
+progress_log-20,PG-AA-0020,50.0,Comentario,2002/03/20 00:00,Esto es una persona con 75 caracteres -------------------------------------,true,contract-01
+progress_log-21,PG-AA-0021,50.0,Comentario,2002/03/20 00:00,プロジェクト,true,contract-01
+progress_log-22,PG-AA-0022,50.0,Comentario,2002/03/20 00:00,<h1>HolaMundo<h1>,true,contract-01
+progress_log-23,PG-AA-0023,50.0,Comentario,2002/03/20 00:00,'OR 'A' = 'A,true,contract-01
+progress_log-24,PG-AA-0024,50.0,Comentario,2002/03/20 00:00,persona1,false,contract-01

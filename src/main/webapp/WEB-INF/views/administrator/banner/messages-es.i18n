@@ -1,0 +1,38 @@
+# messages-es.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+
+administrator.banner.list.title = Pancartas
+administrator.banner.form.title = Detalles de las pancartas
+
+administrator.banner.list.label.instantiationUpdateMoment = Momento de actualización de creación de instancias
+administrator.banner.list.label.displayStart = Inicio de pantalla
+administrator.banner.list.label.displayFinish = Acabado de pantalla
+administrator.banner.list.label.linkPicture = Enlace de imagen
+administrator.banner.list.label.slogan = Eslogan
+administrator.banner.list.label.linkTarget = Destino del enlace	
+
+administrator.banner.form.label.instantiationUpdateMoment = Momento de actualización de creación de instancias
+administrator.banner.form.label.displayStart = Inicio de pantalla
+administrator.banner.form.label.displayFinish = Acabado de pantalla
+administrator.banner.form.label.linkPicture = Enlace de imagen
+administrator.banner.form.label.slogan = Eslogan
+administrator.banner.form.label.linkTarget = Destino del enlace
+
+administrator.banner.list.button.create = Crear
+administrator.banner.form.button.create = Crear
+administrator.banner.form.button.update = Actualizar
+administrator.banner.form.button.delete = Eliminar
+
+
+dministrator.banner.form.error.displayStart = El periodo debe comenzar en algún momento despues de la fecha de instanciación
+administrator.banner.form.error.displayFinish = El periodo debe finalizar una semana como mucho después de la fecha de inicio
+administrator.banner.form.error.maximunPeriod = La fecha no puede ser posterior al 2200/01/01 00:00

@@ -1,0 +1,15 @@
+# messages-es.i18n
+
+
+authenticated.client.form.title = Detalles de consumidor
+
+authenticated.client.form.label.identification = Identificación
+authenticated.client.form.label.companyName = Nombre de la compañía
+authenticated.client.form.label.type = Tipo
+authenticated.client.form.label.email = Email
+authenticated.client.form.label.link = Link
+
+authenticated.client.form.button.create = Registrar
+authenticated.client.form.button.update = Actualizar
+
+authenticated.client.form.error.duplicated = Esta identificación está en uso

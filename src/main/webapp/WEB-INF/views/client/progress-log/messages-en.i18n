@@ -1,0 +1,25 @@
+# messages-en.i18n
+
+client.progress-log.form.title = ProgressLog form
+client.progress-log.list.title = Listing of progressLogs
+
+client.ProgressLog.form.label.recordId = RecordId:
+client.ProgressLog.form.label.completeness = Completeness:
+client.ProgressLog.form.label.comment = Comment: 
+client.ProgressLog.form.label.registrationMoment = Registration Moment:
+client.ProgressLog.form.label.responsiblePerson = Responsible Person:
+
+client.ProgressLog.form.button.create = Create		
+client.ProgressLog.form.button.update = Update
+client.ProgressLog.form.button.delete = Delete
+client.ProgressLog.form.button.publish = Publish
+
+client.ProgressLog.list.label.recordId = RecordId
+client.ProgressLog.list.label.completeness = Completeness
+client.ProgressLog.list.label.comment = Comment
+client.ProgressLog.list.label.registrationMoment = Registration Moment
+client.ProgressLog.list.label.responsiblePerson = Responsible Person
+
+client.ProgressLog.list.button.create = Create
+
+client.progressLog.form.error.duplicated = This recordId is taken

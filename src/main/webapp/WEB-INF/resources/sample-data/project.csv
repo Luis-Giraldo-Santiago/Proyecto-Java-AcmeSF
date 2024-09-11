@@ -1,0 +1,37 @@
+key,code,title,projectAbstract,fatalErrors,cost,link,published,key:manager
+project-00,MVN-0123,Title,Abstract,true,1,http://AcmeJob,false,manager-01
+project-01,ABC-0123,T,Abstract,true,1,http://AcmeJob,false,manager-01
+project-02,BCD-0123,Ti,Abstract,true,1,http://AcmeJob,false,manager-01
+project-03,CDE-0123,Esto es un title de 75 caracteres------------------------------------------,Abstract,true,1,http://AcmeJob,false,manager-01
+project-04,DEF-0123,Esto es un title de 74 caracteres-----------------------------------------,Abstract,true,1,http://AcmeJob,false,manager-01
+project-05,EFJ-0123,Esto es un title de 33 caracteres,Abstract,true,1,http://HellowWorld,false,manager-01
+project-06,FJI-0123,你好,Abstract,true,1,http://AcmeJob,false,manager-01
+project-07,JIK-0123,<h2>Hola</h2>,Abstract,true,1,http://HellowWorld,false,manager-01
+project-08,KOP-4675,'OR '5'='5,Abstract,true,1,http://HellowWorld,false,manager-01
+project-09,NHB-0123,Title,A,true,1,http://AcmeJob,false,manager-01
+project-10,SPL-0123,Title,Ab,true,1,http://AcmeJob,false,manager-01
+project-11,DAU-0123,Title,Esto es un abstract de 100 caracteres---------------------------------------------------------------,true,1,http://HellowWorld,false,manager-01
+project-12,CUD-0123,Title,Esto es un abstract de 99 caracteres---------------------------------------------------------------,true,1,http://HellowWorld,false,manager-01
+project-13,XXX-0123,Title,Esto es un abstract de 36 caracteres,true,1,http://HellowWorld,false,manager-01
+project-14,VMJ-0123,Title,你好,true,1,http://AcmeJob,false,manager-01
+project-15,NIG-0123,Title,<h2>Hola</h2>,true,1,http://AcmeJob,false,manager-01
+project-16,PAL-9999,Title,'OR '5'='5,true,1,http://AcmeJob,false,manager-01
+project-17,LAP-9999,Title,Abstract,false,1,http://AcmeJob,false,manager-01
+project-18,MKJ-9999,Title,Abstract,true,0,http://AcmeJob,false,manager-01
+project-19,WEY-4444,Title,Abstract,true,1,http://AcmeJob,false,manager-01
+project-20,WEY-4244,Title,Abstract,true,2,http://AcmeJob,false,manager-01
+project-21,ABS-0123,Title,Abstract,true,9999,http://AcmeJob,false,manager-01
+project-22,WEY-0123,Title,Abstract,true,10000,http://AcmeJob,false,manager-01
+project-23,IDC-0123,Title,Abstract,true,7875,http://AcmeJob,false,manager-01
+project-24,LKM-1113,Title,Abstract,true,1,,false,manager-01
+project-25,ASC-2323,Title,Abstract,true,1,http://AcmeJob,false,manager-01
+project-26,ASC-1231,Title,Abstract,true,1,http://www.ejemplo.com?,false,manager-01
+project-27,VBN-0123,Title,Abstract,true,1,http://example.com/page?param1=value1&param2=value2,false,manager-01
+project-28,PPP-0123,Title,Abstract,true,1,ftp://ftp.microsoft.com/,false,manager-01
+project-29,PPP-8900,Title,Abstract,true,1,ftp://ftp.example.com/file.txt?user=username&password=12345,false,manager-01
+project-30,ZXC-0123,Title,Abstract,true,1,http://AcmeJobCon255Caracteres---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,false,manager-01
+project-31,LKM-2223,Title,Abstract,false,1,http://AcmeJob,true,manager-01
+project-32,LKM-0123,Title,Abstract,false,1,http://AcmeJob,false,manager-02
+project-33,LKM-5678,Title,Abstract,false,1,http://AcmeJob,true,manager-02
+project-34,LKM-8978,Title,Abstract,false,1,http://AcmeJob,true,manager-02
+project-35,LKM-7678,Title,Abstract,false,1,http://AcmeJob,true,manager-02

@@ -1,0 +1,14 @@
+# messages-es.i18n
+
+
+developer.developer-dashboard.form.title = Panel de indicadores de developer
+
+developer.dashboard.form.title.general-indicators = Indicadores generales
+
+
+developer.dashboard.form.label.totalNumberOfTrainingModulesWithAnUpdatedMoment = Número total de módulos de entrenamiento con un momento de actualización
+developer.dashboard.form.label.totalNumberOfTrainingSessionsWithALink = Número total de sesiones de entrenamiento con un enlace
+developer.dashboard.form.label.averageTimeOfTrainingModules = Tiempo promedio de los módulos de entrenamiento
+developer.dashboard.form.label.devidationTimeOfTrainingModules = Tiempo de desviación de los módulos de entrenamiento
+developer.dashboard.form.label.minimumTimeOfTheTrainingModules = Tiempo mínimo de los módulos de entrenamiento
+developer.dashboard.form.label.maximumTimeOfTheTrainingModules = Tiempo máximo de los módulos de entrenamiento

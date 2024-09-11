@@ -1,0 +1,26 @@
+# messages-es.i18n
+
+
+client.progress-log.form.title = Detalles del registro de progreso
+client.progress-log.list.title = Lista del registro de progreso
+
+client.ProgressLog.form.label.recordId = RecordId:
+client.ProgressLog.form.label.completeness = Completitud:
+client.ProgressLog.form.label.comment = Comentario: 
+client.ProgressLog.form.label.registrationMoment = Momento de registro:
+client.ProgressLog.form.label.responsiblePerson = Persona responsable:
+
+client.ProgressLog.form.button.create = Crear	
+client.ProgressLog.form.button.update = Actualizar
+client.ProgressLog.form.button.delete = Borrar
+client.ProgressLog.form.button.publish = Publicar
+
+client.ProgressLog.list.label.recordId = RecordId
+client.ProgressLog.list.label.completeness = Completitud
+client.ProgressLog.list.label.comment = Comentario
+client.ProgressLog.list.label.registrationMoment = Momento de registro
+client.ProgressLog.list.label.responsiblePerson = Persona responsable
+
+client.ProgressLog.list.button.create = Crear
+
+client.progressLog.form.error.duplicated = Este recordId no está libre

@@ -1,0 +1,42 @@
+# messages-es.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+auditor.audit-record.list.title = registro de auditoría
+auditor.audit-record.form.title = detalles del registro
+
+auditor.auditRecord.form.label.code = código
+auditor.auditRecord.form.label.auditPeriodStart = inicio
+auditor.auditRecord.form.label.auditPeriodEnd = final
+auditor.auditRecord.form.label.mark = Nota
+auditor.auditRecord.form.label.link = link
+auditor.auditRecord.form.label.published = publicado
+
+auditor.auditRecord.form.error.duplicated = code audit code is duplicated
+auditor.auditRecord.form.error.startDateError= la fecha no deber ser inferior a 01/01/2000 00:00
+auditor.auditRecord.form.error.endDateError=la fecha no deber ser inferior a 01/01/2000 00:00
+auditor.auditRecord.form.error.notTimeEnough = al menos 1 hora de diferencia entre fechas
+auditor.codeAudit.form.error.maxStartDateError =la fecha no puede ser superior a 2022/07/30 00:00
+auditor.codeAudit.form.error.maxEndDateError =la fecha no puede ser superior a 2022/07/30 00:00
+auditor.auditRecord.form.error.codeAuditDate = la fecha de inicio debe ser superior a la fecha de ejecución de la auditoría de código.
+
+auditor.auditRecord.list.label.code = código
+auditor.auditRecord.list.label.auditPeriodStart =inicio
+auditor.auditRecord.list.label.auditPeriodEnd = final
+auditor.auditRecord.list.label.mark = nota
+auditor.auditRecord.list.label.link = link
+auditor.auditRecord.list.label.published = publicado
+
+auditor.auditRecord.form.button.list = registros de auditoría
+auditor.auditRecord.form.button.create =crear registro de auditoría
+auditor.auditRecord.list.button.create = crear registro de auditoría
+auditor.auditRecord.form.button.delete = eliminar registro de auditoría
+auditor.auditRecord.form.button.update =actualizar registro de auditoría
+auditor.auditRecord.form.button.publish = publicar

@@ -1,0 +1,102 @@
+# menu-en.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.menu #################################################################
+
+master.menu.home = Home
+master.menu.sign-up = Sign up
+master.menu.sign-in = Sign in
+master.menu.sign-out = Sign out
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anonymous
+master.menu.anonymous.favourite-link-rafmolgar2 = 32086160X: Molina García, Rafael
+master.menu.anonymous.favourite-link-luigirsan1 = 29537801M: Giraldo Santiago, Luis
+master.menu.anonymous.favourite-link-alevarmun1 = 21015313Y: Vargas Muñiz, Alejandro
+master.menu.anonymous.favourite-link-davguifer = 45970470W: Guillén Fernández, David
+master.menu.anonymous.favourite-link-davvarmun = 21015312M: Vargas Muñiz, David
+master.menu.any.list.claim = Claims
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrator
+master.menu.administrator.dashboard = Dashboard
+master.menu.administrator.user-accounts = User accounts
+master.menu.administrator.populate-initial = Populate DB (initial)
+master.menu.administrator.populate-sample = Populate DB (samples)
+master.menu.administrator.shut-down = Shut down
+master.menu.administrator.list.claim = Claims
+administrator.claim.list.title = List of claims
+master.menu.administrator.list.banner = Banners
+administrator.banner.list.title = List of banners
+
+# master.menu.client ###################################################
+
+master.menu.client = Client
+master.menu.client.dashboard = Dashboard
+master.menu.client.list = Contract List
+
+# master.menu.manager ########################################################
+
+master.menu.manager = Manager
+master.menu.manager.list.project = Projects
+master.menu.manager.list.userStory = User Stories
+master.menu.manager.dashboard = Dashboard
+master.menu.manager.my-userStories = My user stories
+
+# master.menu.auditor ########################################################
+
+master.menu.auditor = Auditor
+master.menu.auditor.list.codeAudit = Code Audits
+master.menu.auditor.dashboard = Dashboard
+
+# master.menu.developer ########################################################
+
+master.menu.developer = Developer
+master.menu.developer.list.trainingModule = Training Modules
+master.menu.developer.list.trainingSession = Training Sessions
+master.menu.developer.dashboard = Dashboard
+
+# master.menu.authenticated ########################################################
+
+master.menu.authenticated = Authenticated
+master.menu.authenticated.list.claim = Claims
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Provider
+master.menu.provider.favourite-link = Favourite link
+
+
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Account
+master.menu.user-account.client = Client data
+master.menu.user-account.become-client = Become a client
+master.menu.user-account.general-data = General data
+master.menu.user-account.manager = Manager data
+master.menu.user-account.become-manager = Become a manager
+master.menu.user-account.developer = Developer data
+master.menu.user-account.become-developer = Become a developer
+master.menu.user-account.sponsor = Sponsor data
+master.menu.user-account.become-sponsor = Become a sponsor
+master.menu.user-account.auditor = Auditor data
+master.menu.user-account.become-auditor = Become an auditor
+
+# master.menu.sponsor###################################################
+
+master.menu.sponsor = Sponsor
+master.menu.sponsor.list = Sponsorships
+sponsor.sponsorship.list.title = List of Sponsorships
+master.menu.sponsor.list.invoice = Invoices
+sponsor.invoice.list.title = List of Invoices
+master.menu.sponsor.dashboard = Dashboard

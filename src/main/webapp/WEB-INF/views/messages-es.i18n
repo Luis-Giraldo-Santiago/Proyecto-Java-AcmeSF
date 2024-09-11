@@ -1,0 +1,15 @@
+# messages-es.i18n
+
+validation.project.code = El código del proyecto debe tener el siguiente formato: tres letras mayúsculas seguidas de un guion y luego cuatro números. Por ejemplo: ABC-1234.
+validation.claim.code = El código de una reclamación debe seguir el siguiente patrón: la letra "C" seguida de un guion y luego cuatro números. Por ejemplo: C-1234.
+validation.Contract.code = El código de un contrato debe seguir alguno de los siguentes patrones: A-111, AA-111 y AAA-111
+validation.ProgressLog.recordId = El recordId de un registro de progreso debe seguir alguno de los siguentes patrones: PG-A-1111 y PG-AA-1111
+validation.Risk.reference = El código de un riesgo debe seguir el patrón de ejemplo: R-111
+validation.Client.identification = El código de un cliente debe seguir el patrón de ejemplo: CLI-1111
+validation.Client.type = El tipo solo puede ser company o individual
+validation.sponsorships.code = El código de los patrocinios debe seguir el patrón ^[A-Z]{1,3}-[0-9]{3}$, es decir, debe iniciar con una letra mayúscula de la A a la Z, la cual puede aparecer de 1 a 3 veces, seguida de un guión. Posteriormente, debe aparecer un dígito numérico de 0 a 9. {3} indica que debe aparecer exactamente 3 veces.
+validation.invoices.code = El código de las facturas debe seguir el patrón ^IN-[0-9]{4}-[0-9]{4}$, es decir, debe comenzar por "IN-" seguido por cuatro dígitos, después un guión y, finalmente otros cuatro dígitos.
+validation.trainingModule.code = El código de un módulo de entrenamiento debe seguir el siguiente patrón ^[A-Z]{1,3}-[0-9]{3}$, es decir, debe empezar por una, dos o tres letras de la A a la Z, seguidas de un guión y 3 números del 0 al 9. Por ejemplo: ABC-123
+validation.trainingSession.code = El código una sesión de entrenamiento debe seguir el siguiente patrón TS-[A-Z]{1,3}-[0-9]{3}$, es decir, debe empezar por TS seguido de un guión y una, dos o tres letras de la A a la Z, un guión y 3 números del 0 al 9. Por ejemplo: TS-ABC-123
+validation.codeAudit.code = El código de un código de auditoría ^[A-Z]{1,3}-[0-9]{3}$,es decir, debe empezar por 1, 2 o 3 letras de la A a la Z en mayúscula, después un guión y, finalmente 4 dígitos de 0 a 9. For example: AAA-1111
+validation.auditRecord.code = El código de un registro de auditoría ^AU-[0-9]{4}-[0-9]{3}$, es decir, debe empezar por AU, después un guión, seguido de 4 dígitos de 0 a 9, después otro guión y finalmente 3 dígitos de 0 a 9. For example: AU-0000-111

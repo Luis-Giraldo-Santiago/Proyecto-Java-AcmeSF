@@ -1,0 +1,42 @@
+key,code,creationMoment,details,difficultyLevel,updateMoment,link,totalTime,published,key:project,key:developer
+training-module-01,"ABC-123","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-02,"A-000","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-02
+training-module-03,"A-999","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-05
+training-module-04,"AB-123","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-05,"AB-000","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-06,"AB-999","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-07,"ABC-000","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-08,"ABC-999","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-09,"AC-300","2000/01/01 00:00","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,false,project-31,developer-01
+training-module-10,"AC-301","2000/01/02 00:00","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,false,project-31,developer-01
+training-module-11,"AC-302","2022/07/29 00:00","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-12,"AC-303","2022/07/30 00:00","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,false,project-31,developer-01
+training-module-13,"AC-001","2020/07/28 19:59","D","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-14,"AC-002","2020/07/28 19:59","De","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-15,"AC-003","2020/07/28 19:59","Esto es un ejemplo de details con 50 caracteres---","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-16,"AC-004","2020/07/28 19:59","D---------------------------------------------------------------------------------------------------","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-17,"AC-005","2020/07/28 19:59","D--------------------------------------------------------------------------------------------------","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-18,"AC-006","2020/07/28 19:59","証拠","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-19,"AC-007","2020/07/28 19:59","<h1>HolaMundo<h1>","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-20,"AC-008","2020/07/28 19:59","‘or ‘A’ = ‘A","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-21,"AC-009","2020/07/28 19:59","доказательство","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-22,"AC-010","2020/07/28 19:59","Details","Basic","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-23,"AC-011","2020/07/28 19:59","Details","Advanced","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-24,"AC-012","2020/07/28 19:59","Details","Intermediate","2000/01/01 00:00","http://AcmeSF",4,true,project-31,developer-01
+training-module-25,"AC-013","2020/07/28 19:59","Details","Intermediate","2000/01/02 00:00","http://AcmeSF",4,true,project-31,developer-01
+training-module-26,"AC-014","2020/07/28 19:59","Details","Intermediate","2022/07/29 00:00","http://AcmeSF",4,false,project-31,developer-01
+training-module-27,"AC-015","2020/07/28 19:59","Details","Intermediate","2022/07/30 00:00","http://AcmeSF",4,true,project-31,developer-01
+training-module-28,"AC-016","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59",,4,true,project-31,developer-01
+training-module-29,"AC-017","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","ftp://ftp.example.org1",4,true,project-31,developer-01
+training-module-30,"AC-018","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeJobCon255Caracteres---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",4,true,project-31,developer-01
+training-module-31,"AC-019","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeJobCon255Caracteres--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",4,true,project-31,developer-01
+training-module-32,"AC-020","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://example.com/page?param1=value1&param2=value2",4,true,project-31,developer-01
+training-module-33,"AC-021","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://example.org/api?key=123456789&format=json",4,true,project-31,developer-01
+training-module-34,"AC-022","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","ftp://ftp.example.com/file.txt?user=username&password=12345",4,true,project-31,developer-01
+training-module-35,"AC-023","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",0,true,project-31,developer-01
+training-module-36,"AC-024","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",1,true,project-31,developer-01
+training-module-37,"AC-025","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",5000,true,project-31,developer-01
+training-module-38,"AC-026","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",9999,true,project-31,developer-01
+training-module-39,"AC-027","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",10000,true,project-31,developer-01
+training-module-40,"AC-028","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-01
+training-module-41,"AC-029","2020/07/28 19:59","Details","Intermediate","2020/07/29 19:59","http://AcmeSF",4,true,project-31,developer-02

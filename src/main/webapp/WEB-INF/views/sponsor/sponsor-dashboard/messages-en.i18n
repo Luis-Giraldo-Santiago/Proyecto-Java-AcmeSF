@@ -1,0 +1,18 @@
+# messages-en.i18n
+
+sponsor.sponsor-dashboard.form.title = Sponsor Dashboard
+
+sponsor.sponsor-dashboard.form.title.general-indicators = General indicators
+
+sponsor.dashboard.form.label.totalInvoicesTaxLessEqual21 = Total invoices tax less equal 21
+sponsor.dashboard.form.label.totalSponsorshipsWithLink = Total number of Sponsorships with a link
+sponsor.dashboard.form.label.averageSponsorships = Average sponsorships
+sponsor.dashboard.form.label.deviationSponsorships = Deviation sponsorships
+sponsor.dashboard.form.label.minimumSponsorships = Minimum sponsorships
+sponsor.dashboard.form.label.maximunSponsorships = Maximun sponsorships
+sponsor.dashboard.form.label.maximunInvoices = Maximun invoices
+sponsor.dashboard.form.label.averageInvoices = Average invoices
+sponsor.dashboard.form.label.deviationInvoices = Deviation Invoices
+sponsor.dashboard.form.label.minimumInvoices = Minimum invoices
+
+

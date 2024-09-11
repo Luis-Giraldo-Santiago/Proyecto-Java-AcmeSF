@@ -1,0 +1,25 @@
+# messages-es.i18n
+
+
+manager.manager-dashboard.form.title = Panel de indicadores de manager
+
+manager.dashboard.form.title.general-indicators = Indicadores generales
+
+
+manager.dashboard.form.label.totalNumberMustUserStories = 	Número total de "Must" historias de usuario
+manager.dashboard.form.label.totalNumberShouldUserStories = Número total de "Should" historias de usuario
+manager.dashboard.form.label.totalNumberCouldUserStories = Número total de "Could" historias de usuario
+manager.dashboard.form.label.totalNumberWontUserStories = Número total de "Wont" historias de usuario
+manager.dashboard.form.label.averageEstimatedCostUserStories = Coste medio estimado de todas las historias de usuario
+manager.dashboard.form.label.deviationEstimatedCostUserStories = Desviación del coste estimado de todas las historias de usuario
+manager.dashboard.form.label.minimunEstimatedCostUserStories = Mínimo coste estimado de todas las historias de usuario
+manager.dashboard.form.label.maximumEstimatedCostUserStories = Máximo coste estimado de todas las historias de usuario
+manager.dashboard.form.label.averageCostProjects = Media de coste de todos los proyectos
+manager.dashboard.form.label.deviationCostProjects = Desviación del coste de todos los proyectos
+manager.dashboard.form.label.minimunCostProjects = Mínimo coste de todos los proyectos
+manager.dashboard.form.label.maximumCostProjects = Máximo coste de todos los proyectos
+
+manager.dashboard.form.label.userStories.priority.information = Gráfica de la prioridad de las historias de usuario
+manager.dashboard.form.label.userStories.information = Gráfica del coste estimado (en horas) de las historias de usuario
+manager.dashboard.form.label.projects.information = Gráfica del coste (en horas) de los proyectos
+

@@ -1,0 +1,32 @@
+key,reference,identification_date,impact,probability,description,link
+risk-00,R-000,2002/03/20 00:00,50.0,50.0,descripción,https://risk.com
+risk-01,R-001,2000/01/01 00:00,50.0,50.0,descripción,https://risk.com
+risk-02,R-002,2000/01/01 00:01,50.0,50.0,descripción,https://risk.com
+risk-03,R-003,2022/07/29 23:59,50.0,50.0,descripción,https://risk.com
+risk-04,R-004,2022/07/30 00:00,50.0,50.0,descripción,https://risk.com
+risk-05,R-005,2000/02/29 00:00,50.0,50.0,descripción,https://risk.com
+risk-06,R-006,2002/03/20 00:00,0.1,50.0,descripción,https://risk.com
+risk-07,R-007,2002/03/20 00:00,0.2,50.0,descripción,https://risk.com
+risk-08,R-008,2002/03/20 00:00,99.99,50.0,descripción,https://risk.com
+risk-09,R-009,2002/03/20 00:00,100.0,50.0,descripción,https://risk.com
+risk-10,R-010,2002/03/20 00:00,50.0,0.0,descripción,https://risk.com
+risk-11,R-011,2002/03/20 00:00,50.0,0.1,descripción,https://risk.com
+risk-12,R-012,2002/03/20 00:00,50.0,99.99,descripción,https://risk.com
+risk-13,R-013,2002/03/20 00:00,50.0,100.0,descripción,https://risk.com
+risk-14,R-014,2002/03/20 00:00,50.0,50.0,d,https://risk.com
+risk-15,R-015,2002/03/20 00:00,50.0,50.0,de,https://risk.com
+risk-16,R-016,2002/03/20 00:00,50.0,50.0,Esto es una descripción con 99 caracteres ---------------------------------------------------------,https://risk.com
+risk-17,R-017,2002/03/20 00:00,50.0,50.0,Esto es una descripción con 100 caracteres ---------------------------------------------------------,https://risk.com
+risk-18,R-018,2002/03/20 00:00,50.0,50.0,プロジェクト,https://risk.com
+risk-19,R-019,2002/03/20 00:00,50.0,50.0,<h1>HolaMundo<h1>,https://risk.com
+risk-20,R-020,2002/03/20 00:00,50.0,50.0,'OR 'A' = 'A,https://risk.com
+risk-21,R-021,2002/03/20 00:00,50.0,50.0,descripción,
+risk-22,R-022,2002/03/20 00:00,50.0,50.0,descripción,ftp://
+risk-23,R-023,2002/03/20 00:00,50.0,50.0,descripción,ftp://a
+risk-24,R-024,2002/03/20 00:00,50.0,50.0,descripción,http://Esta-es-la-url-con-254-caracteres----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+risk-25,R-025,2002/03/20 00:00,50.0,50.0,descripción,http://Esta-es-la-url-con-255-caracteres-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+risk-26,R-026,2002/03/20 00:00,50.0,50.0,descripción,https://A?type=A&name=example.com
+risk-27,R-027,2002/03/20 00:00,50.0,50.0,descripción,https://A?type
+risk-28,R-028,2002/03/20 00:00,50.0,50.0,descripción,file:///path/to/file.txt
+risk-29,R-029,2002/03/20 00:00,50.0,50.0,descripción,mailto:example@example.com?subject=Subject&body=Body
+risk-30,R-030,2002/03/20 00:00,50.0,50.0,descripción,http://プロジェクト

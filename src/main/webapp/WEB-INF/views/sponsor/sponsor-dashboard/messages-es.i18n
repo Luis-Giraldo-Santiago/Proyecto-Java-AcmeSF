@@ -1,0 +1,18 @@
+# messages-es.i18n
+
+
+sponsor.sponsor-dashboard.form.title = Panel de indicadores de developer
+
+sponsor.sponsor-dashboard.form.title.general-indicators = Indicadores generales
+
+
+sponsor.dashboard.form.label.totalInvoicesTaxLessEqual21 = Impuesto total de facturas menos igual 21
+sponsor.dashboard.form.label.totalSponsorshipsWithLink = Número total de Patrocinios con un enlace
+sponsor.dashboard.form.label.averageSponsorships = Patrocinios promedio
+sponsor.dashboard.form.label.deviationSponsorships = Desviación de patrocinios 
+sponsor.dashboard.form.label.minimumSponsorships = Patrocinios mínimos
+sponsor.dashboard.form.label.maximunSponsorships = Patrocinios máximos
+sponsor.dashboard.form.label.maximunInvoices = Facturas máximas
+sponsor.dashboard.form.label.averageInvoices = Promedio de facturas
+sponsor.dashboard.form.label.deviationInvoices = Desviación de facturas
+sponsor.dashboard.form.label.minimumInvoices = Facturas mínimas

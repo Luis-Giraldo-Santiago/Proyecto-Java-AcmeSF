@@ -1,0 +1,64 @@
+key,code,start,finish,location,instructor,contactEmail,link,published,key:trainingModule
+training-session-01,"TS-ABC-123","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-01
+training-session-02,"TS-A-000","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-02
+training-session-03,"TS-A-999","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-03
+training-session-04,"TS-AB-123","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-04
+training-session-05,"TS-AB-000","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-05
+training-session-06,"TS-AB-999","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-06
+training-session-07,"TS-ABC-000","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",false,training-module-07
+training-session-08,"TS-ABC-999","2020/07/08 19:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",false,training-module-08
+training-session-09,"TS-AB-001","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-10,"TS-AB-002","2000/01/02 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",false,training-module-09
+training-session-11,"TS-AB-003","2200/12/30 23:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-12,"TS-AB-004","2200/12/31 23:59","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-13,"TS-AB-005","2020/07/08 19:59","2000/01/01 00:00","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-14,"TS-AB-006","2020/07/08 19:59","2000/01/02 00:00","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-15,"TS-AB-007","2020/07/08 19:59","2200/12/30 23:59","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-16,"TS-AB-008","2020/07/08 19:59","2200/12/31 23:59","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-17,"TS-AB-009","2000/01/01 00:00","2020/07/18 17:46","L","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-18,"TS-AB-010","2000/01/01 00:00","2020/07/18 17:46","Lo","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-19,"TS-AB-011","2000/01/01 00:00","2020/07/18 17:46","Location con 33 caracteres-------","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-20,"TS-AB-012","2000/01/01 00:00","2020/07/18 17:46","L--------------------------------------------------------------------------","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-21,"TS-AB-013","2000/01/01 00:00","2020/07/18 17:46","L-------------------------------------------------------------------------","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-22,"TS-AB-014","2000/01/01 00:00","2020/07/18 17:46","証拠","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-23,"TS-AB-015","2000/01/01 00:00","2020/07/18 17:46","<h1>HolaMundo<h1>","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-24,"TS-AB-016","2000/01/01 00:00","2020/07/18 17:46","‘or ‘A’ = ‘A","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-25,"TS-AB-017","2000/01/01 00:00","2020/07/18 17:46","доказательство","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-26,"TS-AB-018","2000/01/01 00:00","2020/07/18 17:46","Location","I","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-27,"TS-AB-019","2000/01/01 00:00","2020/07/18 17:46","Location","In","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-28,"TS-AB-020","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor con 33 caracteres-----","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-29,"TS-AB-021","2000/01/01 00:00","2020/07/18 17:46","Location","I--------------------------------------------------------------------------","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-30,"TS-AB-022","2000/01/01 00:00","2020/07/18 17:46","Location","I-------------------------------------------------------------------------","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-31,"TS-AB-023","2000/01/01 00:00","2020/07/18 17:46","Location","証拠","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-32,"TS-AB-024","2000/01/01 00:00","2020/07/18 17:46","Location","<h1>HolaMundo<h1>","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-33,"TS-AB-025","2000/01/01 00:00","2020/07/18 17:46","Location","‘or ‘A’ = ‘A","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-34,"TS-AB-026","2000/01/01 00:00","2020/07/18 17:46","Location","доказательство","trainingModule@acmesf.com","http://AcmeSF",true,training-module-09
+training-session-35,"TS-AB-027","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","a@alum.us.es","http://AcmeSF",true,training-module-09
+training-session-36,"TS-AB-028","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","al@alum.us.es","http://AcmeSF",true,training-module-09
+training-session-37,"TS-AB-029","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@gmail.es","http://AcmeSF",true,training-module-09
+training-session-38,"TS-AB-030","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@gmail.com","http://AcmeSF",true,training-module-09
+training-session-39,"TS-AB-031","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@hotmail.es","http://AcmeSF",true,training-module-09
+training-session-40,"TS-AB-032","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@hotmail.com","http://AcmeSF",true,training-module-09
+training-session-41,"TS-AB-033","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@yahoo.com","http://AcmeSF",true,training-module-09
+training-session-42,"TS-AB-034","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@yahoo.es","http://AcmeSF",true,training-module-09
+training-session-43,"TS-AB-035","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@outlook.com","http://AcmeSF",true,training-module-09
+training-session-44,"TS-AB-036","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@outlook.es","http://AcmeSF",false,training-module-09
+training-session-45,"TS-AB-037","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@a.us.es","http://AcmeSF",true,training-module-09
+training-session-46,"TS-AB-038","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@a.es","http://AcmeSF",false,training-module-09
+training-session-47,"TS-AB-039","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1@a.com","http://AcmeSF",false,training-module-09
+training-session-48,"TS-AB-040","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmun1Con64CaracteresAntesDeLaArroba------------------------@alum.us.es","http://AcmeSF",true,training-module-09
+training-session-49,"TS-AB-041","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmunCon64CaracteresAntesDeLaArroba-------------------------@gmailCon63CaracteresDespuesDeLaArrobaYAntesDelPuntooooooooooooo.com","http://AcmeSF",true,training-module-09
+training-session-50,"TS-AB-042","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmunCon64CaracteresAntesDeLaArroba-------------------------@gmailCon63CaracteresDespuesDeLaArrobaYAntesDelPuntooooooooooooo.comCon56CaracteresDespuesDelPuntoooooooooooooooooooooooo","http://AcmeSF",false,training-module-09
+training-session-51,"TS-AB-043","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","78@12.36","http://AcmeSF",true,training-module-09
+training-session-52,"TS-AB-044","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","78@12.com","http://AcmeSF",true,training-module-09
+training-session-53,"TS-AB-045","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","alevarmunCon64CaracteresAntesDeLaArroba-------------------------@gmailCon62CaracteresDespuesDeLaArrobaYAntesDelPuntoooooooooooo.com","http://AcmeSF",true,training-module-09
+training-session-54,"TS-AB-046","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","davguiferCon64CaracteresAntesDeLaArroba-------------------------@gmailCon63CaracteresDespuesDeLaArrobaYAntesDelPuntooooooooooooo.comCon55CaracteresDespuesDelPuntooooooooooooooooooooooo","http://AcmeSF",true,training-module-09
+training-session-55,"TS-AB-047","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","a@a.a","http://AcmeSF",true,training-module-09
+training-session-56,"TS-AB-048","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com",,true,training-module-09
+training-session-57,"TS-AB-049","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","ftp://ftp.example.org1",true,training-module-09
+training-session-58,"TS-AB-050","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeJobCon255Caracteres---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",true,training-module-09
+training-session-59,"TS-AB-051","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeJobCon255Caracteres--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",true,training-module-09
+training-session-60,"TS-AB-052","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://example.com/page?param1=value1&param2=value2",true,training-module-09
+training-session-61,"TS-AB-053","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://example.org/api?key=123456789&format=json",true,training-module-09
+training-session-62,"TS-AB-054","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","ftp://ftp.example.com/file.txt?user=username&password=12345",true,training-module-09
+training-session-63,"TS-AB-055","2000/01/01 00:00","2020/07/18 17:46","Location","Instructor","trainingModule@acmesf.com","http://AcmeSF",true,training-module-10

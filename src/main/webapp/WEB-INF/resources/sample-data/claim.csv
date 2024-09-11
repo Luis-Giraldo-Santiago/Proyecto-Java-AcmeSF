@@ -1,0 +1,65 @@
+key,code,instantiationMoment,heading,description,department,email,link,published
+claim-00,C-9864,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-01,C-1234,2000/01/01 00:00,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-02,C-1235,2000/01/01 00:01,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-03,C-1236,2022/07/29 23:58,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-04,C-1237,2022/07/29 23:59,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-05,C-1238,2018/03/06 18:35,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-06,C-1239,2020/02/20 15:00,H,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-07,C-1240,2020/02/20 15:00,He,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-08,C-1241,2020/02/20 15:00,Heading con 75 caracteres--------------------------------------------------,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-09,C-1242,2020/02/20 15:00,Heading con 74 caracteres-------------------------------------------------,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-10,C-1243,2020/02/20 15:00,Heading con 25 caracteres,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-11,C-1244,2020/02/20 15:00,你好,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-12,C-1245,2020/02/20 15:00,<h2>Hola</h2>,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-13,C-1246,2020/02/20 15:00,'OR '5'='5,Description,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-14,C-1249,2020/02/20 15:00,Heading,D,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-15,C-1250,2020/02/20 15:00,Heading,De,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-16,C-1251,2020/02/20 15:00,Heading,Description con 100 caracteres----------------------------------------------------------------------,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-17,C-1252,2020/02/20 15:00,Heading,Description con 99 caracteres----------------------------------------------------------------------,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-18,C-1253,2020/02/20 15:00,Heading,Description con 29 caracteres,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-19,C-1254,2020/02/20 15:00,Heading,你好,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-20,C-1257,2020/02/20 15:00,Heading,<h2>Hola</h2>,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-21,C-1258,2020/02/20 15:00,Heading,'OR '5'='5,Department,davguifer@alum.us.es,http://AcmeJob,false
+claim-22,C-1259,2020/02/20 15:00,Heading,Description,D,davguifer@alum.us.es,http://AcmeJob,false
+claim-23,C-1260,2020/02/20 15:00,Heading,Description,De,davguifer@alum.us.es,http://AcmeJob,false
+claim-24,C-1261,2020/02/20 15:00,Heading,Description,Department de 100 caracteres------------------------------------------------------------------------,davguifer@alum.us.es,http://AcmeJob,false
+claim-25,C-1262,2020/02/20 15:00,Heading,Description,Department de 99 caracteres------------------------------------------------------------------------,davguifer@alum.us.es,http://AcmeJob,false
+claim-26,C-1263,2020/02/20 15:00,Heading,Description,Department de 27 caracteres,davguifer@alum.us.es,http://AcmeJob,false
+claim-27,C-1264,2020/02/20 15:00,Heading,Description,你好,davguifer@alum.us.es,http://AcmeJob,false
+claim-28,C-1267,2020/02/20 15:00,Heading,Description,<h2>Hola</h2>,davguifer@alum.us.es,http://AcmeJob,false
+claim-29,C-1268,2020/02/20 15:00,Heading,Description,'OR '5'='5,davguifer@alum.us.es,http://AcmeJob,false
+claim-30,C-1269,2020/02/20 15:00,Heading,Description,Department,d@alum.us.es,http://AcmeJob,false
+claim-31,C-1270,2020/02/20 15:00,Heading,Description,Department,da@alum.us.es,http://AcmeJob,false
+claim-32,C-1271,2020/02/20 15:00,Heading,Description,Department,davguifer@gmail.es,http://AcmeJob,false
+claim-33,C-1272,2020/02/20 15:00,Heading,Description,Department,davguifer@gmail.com,http://AcmeJob,false
+claim-34,C-1273,2020/02/20 15:00,Heading,Description,Department,davguifer@hotmail.es,http://AcmeJob,false
+claim-35,C-1274,2020/02/20 15:00,Heading,Description,Department,davguifer@hotmail.com,http://AcmeJob,false
+claim-36,C-1275,2020/02/20 15:00,Heading,Description,Department,davguifer@yahoo.com,http://AcmeJob,false
+claim-37,C-1276,2020/02/20 15:00,Heading,Description,Department,davguifer@yahoo.es,http://AcmeJob,false
+claim-38,C-1277,2020/02/20 15:00,Heading,Description,Department,davguifer@outlook.com,http://AcmeJob,false
+claim-39,C-1278,2020/02/20 15:00,Heading,Description,Department,davguifer@outlook.es,http://AcmeJob,false
+claim-40,C-1279,2020/02/20 15:00,Heading,Description,Department,davguifer@a.us.es,http://AcmeJob,false
+claim-41,C-1280,2020/02/20 15:00,Heading,Description,Department,davguifer@a.es,http://AcmeJob,false
+claim-42,C-1281,2020/02/20 15:00,Heading,Description,Department,davguifer@a.com,http://AcmeJob,false
+claim-43,C-1282,2020/02/20 15:00,Heading,Description,Department,davguiferCon64CaracteresAntesDeLaArroba-------------------------@alum.us.es,http://AcmeJob,false
+claim-44,C-1283,2020/02/20 15:00,Heading,Description,Department,davguiferCon63CaracteresAntesDeLaArroba-------------------------@alum.us.es,http://AcmeJob,false
+claim-45,C-1284,2020/02/20 15:00,Heading,Description,Department,davguiferCon24Caracteres@a.a,http://AcmeJob,false
+claim-46,C-1285,2020/02/20 15:00,Heading,Description,Department,davguiferCon24Caracteres@alum.us.es,http://AcmeJob,false
+claim-47,C-1286,2020/02/20 15:00,Heading,Description,Department,davguiferCon24Caracteres@gmail.es,http://AcmeJob,false
+claim-48,C-1287,2020/02/20 15:00,Heading,Description,Department,davguiferCon64CaracteresAntesDeLaArroba-------------------------@gmailCon63CaracteresDespuesDeLaArrobaYAntesDelPuntooooooooooooo.com,http://AcmeJob,false
+claim-49,C-1288,2020/02/20 15:00,Heading,Description,Department,davguiferCon64CaracteresAntesDeLaArroba-------------------------@gmailCon63CaracteresDespuesDeLaArrobaYAntesDelPuntooooooooooooo.comCon56CaracteresDespuesDelPuntoooooooooooooooooooooooo,http://AcmeJob,false
+claim-50,C-1289,2020/02/20 15:00,Heading,Description,Department,55@89.78,http://AcmeJob,false
+claim-51,C-1290,2020/02/20 15:00,Heading,Description,Department,55@89.com,http://AcmeJob,false
+claim-52,C-1291,2020/02/20 15:00,Heading,Description,Department,davguiferCon64CaracteresAntesDeLaArroba-------------------------@gmailCon62CaracteresDespuesDeLaArrobaYAntesDelPuntoooooooooooo.com,http://AcmeJob,false
+claim-53,C-1292,2020/02/20 15:00,Heading,Description,Department,davguiferCon64CaracteresAntesDeLaArroba-------------------------@gmailCon63CaracteresDespuesDeLaArrobaYAntesDelPuntooooooooooooo.comCon55CaracteresDespuesDelPuntooooooooooooooooooooooo,http://AcmeJob,false
+claim-54,C-1293,2020/02/20 15:00,Heading,Description,Department,a@a.a,http://AcmeJob,false
+claim-55,C-1294,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,,false
+claim-56,C-1299,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,ftp://ftp.example.org1,false
+claim-57,C-1295,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJobCon255Caracteres---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,false
+claim-58,C-1296,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJobCon254Caracteres--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,false
+claim-59,C-1297,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,http://example.com/page?param1=value1&param2=value2,false
+claim-60,C-1298,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,http://example.org/api?key=123456789&format=json,false
+claim-61,C-1305,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,ftp://ftp.example.com/file.txt?user=username&password=12345,false
+claim-62,C-1301,2020/02/20 15:00,Heading,Description,Departmentdavguifer@alum.us.es,,http://AcmeJob,true
+claim-63,C-1302,2020/02/20 15:00,Heading,Description,Department,davguifer@alum.us.es,http://AcmeJob,false

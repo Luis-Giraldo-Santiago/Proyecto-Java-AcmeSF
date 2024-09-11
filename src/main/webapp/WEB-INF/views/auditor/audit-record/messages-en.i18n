@@ -1,0 +1,42 @@
+# messages-es.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+auditor.audit-record.list.title = Audit Record
+auditor.audit-record.form.title = Audit Record details
+
+auditor.auditRecord.form.label.code = code
+auditor.auditRecord.form.label.auditPeriodStart = period start
+auditor.auditRecord.form.label.auditPeriodEnd = period end
+auditor.auditRecord.form.label.mark = mark
+auditor.auditRecord.form.label.link = link
+auditor.auditRecord.form.label.published = published
+
+auditor.auditRecord.form.error.duplicated = code audit code is duplicated
+auditor.auditRecord.form.error.startDateError= date shouldn't be inferior to 2000/01/01 00:00
+auditor.auditRecord.form.error.endDateError= date shouldn't be inferior to 2000/01/01 00:00
+auditor.auditRecord.form.error.notTimeEnough = at least 1 hour of diference between dates
+auditor.codeAudit.form.error.maxStartDateError =date shouldn't be superior to 2022/07/30 00:00
+auditor.codeAudit.form.error.maxEndDateError =date shouldn't be superior to 2022/07/30 00:00
+auditor.auditRecord.form.error.codeAuditDate = start date must not be inferior to execution date of the code audit
+
+auditor.auditRecord.list.label.code = code
+auditor.auditRecord.list.label.auditPeriodStart =period start
+auditor.auditRecord.list.label.auditPeriodEnd = period end
+auditor.auditRecord.list.label.mark = mark
+auditor.auditRecord.list.label.link = link
+auditor.auditRecord.list.label.published = published
+
+auditor.auditRecord.form.button.list = audit records
+auditor.auditRecord.form.button.create = create audit record
+auditor.auditRecord.list.button.create = create audit record
+auditor.auditRecord.form.button.delete = delete audit record
+auditor.auditRecord.form.button.update = update audit record
+auditor.auditRecord.form.button.publish = publish

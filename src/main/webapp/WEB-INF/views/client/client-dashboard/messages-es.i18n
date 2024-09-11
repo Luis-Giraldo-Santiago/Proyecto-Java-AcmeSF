@@ -1,0 +1,18 @@
+# messages-es.i18n
+
+
+client.client-dashboard.form.title = Panel de indicadores de cliente
+
+client.dashboard.form.title.general-indicators = Indicadores generales
+
+client.dashboard.form.label.percentage-Of-Total-Number-Completeness-25 = Porcentage del total de registro de progreso completados menor a 25
+client.dashboard.form.label.percentage-Of-Total-Number-Completeness-25-At-50 = Porcentage del total de registro de progreso completados entre 25 y 50
+client.dashboard.form.label.percentage-Of-Total-Number-Completeness-50-at-75 = Porcentage del total de registro de progreso completados entre 50 y 75
+client.dashboard.form.label.percentage-Of-Total-Number-Completeness-More-75 = Porcentage del total de registro de progreso completados mayor al 75
+client.dashboard.form.label.average-Budget-Of-Contract =  La media de presupuesto de los contratos
+client.dashboard.form.label.deviation-Budget-Of-Contract = Desviación típica de los presupuestos de los contratos
+client.dashboard.form.label.minimum-Budget-Of-Contract = Mínimo presupuesto de los contratos
+client.dashboard.form.label.maximum-Budget-Of-Contract = Máximo presupuesto de los contratos
+
+client.dashboard.form.label.progresslog.completeness = Gráfica de los porcentages de los registros de progresos completados
+client.dashboard.form.label.contract.budget = Gráfica del presupuesto de los contratos

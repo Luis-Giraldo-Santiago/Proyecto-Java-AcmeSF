@@ -1,0 +1,42 @@
+key,instantiationMoment,title,description,priority,status,start,finish,link,published
+objective-01,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,true
+objective-02,2000/01/01 00:00,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,true
+objective-03,2000/01/02 00:00,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,true
+objective-04,2022/07/29 00:00,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,true
+objective-05,2022/07/30 00:00,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,true
+objective-06,2020/07/08 19:59,T,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-07,2020/07/08 19:59,Ti,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-08,2020/07/08 19:59,Title---------------------------------------------------------------------,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,false
+objective-09,2020/07/08 19:59,Title----------------------------------------------------------------------,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,false
+objective-10,2020/07/08 19:59,Esto es un title de 33 caracteres,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,false
+objective-11,2020/07/08 19:59,証拠,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,false
+objective-12,2020/07/08 19:59,<h1>HolaMundo<h1>,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-13,2020/07/08 19:59,‘or ‘A’ = ‘A,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-14,2020/07/08 19:59,доказательство,Description,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-15,2020/07/08 19:59,Title,D,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-16,2020/07/08 19:59,Title,De,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-17,2020/07/08 19:59,Title,Description---------------------------------------------------------------------------------------,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,false
+objective-18,2020/07/08 19:59,Title,Description----------------------------------------------------------------------------------------,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-19,2020/07/08 19:59,Title,Esto es una descripcion con 50 caracteres---------,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-20,2020/07/08 19:59,Title,証拠,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-21,2020/07/08 19:59,Title,<h1>HolaMundo<h1>,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-22,2020/07/08 19:59,Title,‘or ‘A’ = ‘A,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-23,2020/07/08 19:59,Title,доказательство,Medium,true,2022/07/29 23:59,2022/07/30 00:00,http://AcmeSF,true
+objective-24,2020/07/08 19:59,Title,Description,Low,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,false
+objective-25,2020/07/08 19:59,Title,Description,High,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,false
+objective-26,2020/07/08 19:59,Title,Description,Medium,false,2020/07/10 19:59,2020/07/12 19:59,http://AcmeSF,true
+objective-27,2020/07/08 19:59,Title,Description,Medium,true,2000/01/01 00:00,2020/07/12 19:59,http://AcmeSF,true
+objective-28,2020/07/08 19:59,Title,Description,Medium,true,2000/01/02 00:00,2020/07/12 19:59,http://AcmeSF,true
+objective-29,2020/07/08 19:59,Title,Description,Medium,true,2200/12/30 23:59,2020/07/12 19:59,http://AcmeSF,true
+objective-30,2020/07/08 19:59,Title,Description,Medium,true,2200/12/31 23:59,2020/07/12 19:59,http://AcmeSF,false
+objective-31,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2000/01/01 00:00,http://AcmeSF,false
+objective-32,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2000/01/02 00:00,http://AcmeSF,false
+objective-33,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2200/12/30 23:59,http://AcmeSF,false
+objective-34,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2200/12/31 23:59,http://AcmeSF,true
+objective-35,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,,true
+objective-36,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,ftp://ftp.example.org1,true
+objective-37,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeJobCon255Caracteres---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,true
+objective-38,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://AcmeJobCon255Caracteres--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,true
+objective-39,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://example.com/page?param1=value1&param2=value2,true
+objective-40,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,http://example.org/api?key=123456789&format=json,true
+objective-41,2020/07/08 19:59,Title,Description,Medium,true,2020/07/10 19:59,2020/07/12 19:59,ftp://ftp.example.com/file.txt?user=username&password=12345,true

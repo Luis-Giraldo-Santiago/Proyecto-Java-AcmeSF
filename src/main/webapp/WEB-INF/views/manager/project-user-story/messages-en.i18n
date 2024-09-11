@@ -1,0 +1,27 @@
+# messages-en.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+manager.project-user-story.form.title = Associate user story - project form
+
+manager.projectUserStory.form.userStory.cant.info = You can't add/delete a user story to/from a project which is published
+manager.projectUserStory.form.userStory.create.info = Add a user story to the project 
+manager.projectUserStory.form.userStory.delete.info = Delete a user story from the project 
+manager.projectUserStory.form.project.code = Project:
+manager.projectUserStory.form.project.title = Title:
+manager.projectUserStory.form.label.userStory = User story:
+
+manager.projectUserStory.form.button.add = Add user history
+manager.projectUserStory.form.button.remove = Remove user history
+
+manager.projectUserStory.form.error.published = The project is published, you can't modify
+manager.projectUserStory.form.error.duplicatedRelation = That user story is already in this project
+manager.projectUserStory.form.error.sameManager = The user story and the project must have the same manager
+manager.projectUserStory.form.error.notSelected = You have not selected a user story
+manager.projectUserStory.form.error.mustBeDuplicated = You can't remove a user history that it is not in the project

@@ -1,0 +1,39 @@
+# messages-es.i18n
+
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+developer.training-session.list.title = Sesiones de entrenamiento:
+developer.training-session.form.title = Detalles de la sesión de entrenamiento
+
+developer.TrainingSession.form.label.code = Código
+developer.TrainingSession.form.label.start = Inicio
+developer.TrainingSession.form.label.finish = Fin
+developer.TrainingSession.form.label.location = Ubicación
+developer.TrainingSession.form.label.instructor = Instructor
+developer.TrainingSession.form.label.contactEmail = Email de contacto
+developer.TrainingSession.form.label.link = Enlace
+developer.TrainingSession.form.label.published = Publicada
+developer.trainingSession.form.error.duplicated = El código de la sesión de entrenamiento está duplicado
+
+developer.TrainingSession.form.button.create = Crear	
+developer.TrainingSession.form.button.update = Actualizar
+developer.TrainingSession.form.button.delete = Borrar
+developer.TrainingSession.form.button.publish = Publicar
+
+developer.TrainingSession.list.label.code = Código
+developer.TrainingSession.list.label.start = Inicio
+developer.TrainingSession.list.label.finish = Fin
+developer.TrainingSession.list.label.location = Ubicación
+developer.TrainingSession.list.label.instructor = Instructor
+developer.TrainingSession.list.label.contactEmail = Email de contacto
+developer.TrainingSession.list.label.link = Enlace
+developer.TrainingSession.list.label.published = Publicado
+
+developer.TrainingSession.list.button.create = Crear

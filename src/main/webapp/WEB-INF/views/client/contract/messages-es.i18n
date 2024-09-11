@@ -1,0 +1,35 @@
+# messages-es.i18n
+
+client.contract.form.title = Detalles de contratos
+client.contract.list.title = Lista de contratos
+
+client.contract.list.label.code = Código
+client.contract.list.label.instantiationMoment = Momento de instanciación
+client.contract.list.label.providerName = Nombre del proveedorTítulo
+client.contract.list.label.customerName = Nombre del cliente
+client.contract.list.label.goals = Metas
+client.contract.list.label.budget = Presupuesto
+
+
+client.contract.list.button.create = Crear un contrato
+client.contract.list.button.create = Crear
+client.contract.form.button.update = Actualizar contracto
+client.contract.form.button.delete = Borrar contrato
+
+client.contract.form.label.code = Código: 
+client.contract.form.label.instantiationMoment = Momento de instanciación: 
+client.contract.form.label.providerName = Nombre del proveedor:
+client.contract.form.label.customerName = Nombre del cliente:
+client.contract.form.label.goals = Metas:
+client.contract.form.label.budget = Presupuesto:
+client.contract.form.label.project = Proyectos:
+client.contract.form.label.projectTitle = Titulo del proyecto
+		
+client.contract.form.button.progressLog = Registros de progreso
+client.contract.form.button.publish = Publicar
+
+client.contract.form.error.duplicated = Este código no está libre
+client.contract.form.error.higher-hour = El presupuesto no puede ser superior a 10000 horas
+client.contract.form.error.lower-hous = El presupuesto no puede ser inferior a 0 horas
+client.contract.form.error.lower-than-cost = El presupuesto no puede ser mayor que el costo del proyecto.
+client.contract.form.error.higher-than-cost = La suma de los presupuestos de los contratos asociados al proyecto superan el coste del proyecto

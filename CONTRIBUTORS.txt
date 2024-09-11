@@ -1,0 +1,20 @@
+# CONTRIBUTORS.txt
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+- Rafael Corchuelo (corchu@us.es)
+- Luis Giraldo (luigirsan1@alum.us.es)
+- David Guillén Fernández (davguifer@alum.es)
+- Rafael Molina García (rafmolgar2@alum.us.es)
+- Alejandro Vargas Muñiz (alevarmun1@alum.us.es)
+- David Vargas Muñiz (davvarmun@alum.us.es)
+
+
+
+

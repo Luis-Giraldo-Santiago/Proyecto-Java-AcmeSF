@@ -1,0 +1,37 @@
+key,instantiationUpdateMoment,displayStart,displayFinish,linkPicture,slogan,linkTarget
+banner-00,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-01,2000/01/01 00:00,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-02,2000/01/01 00:01,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-03,2022/07/29 23:59,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-04,2022/07/30 00:00,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-05,2000/02/29 00:00,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-06,2010/06/06 09:10,2010/06/06 09:11,2010/06/13 09:11,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-07,2010/06/06 09:10,2010/06/06 09:12,2010/06/13 09:12,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-08,2010/06/06 09:10,2199/12/24 23:59,2199/12/31 23:59,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-09,2010/06/06 09:10,2199/12/25 00:00,2200/01/01 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-10,2010/06/06 09:10,2012/02/22 00:00,2012/02/29 00:00,http://HellowWorldbanner01.com,slogan,http://HellowWorldbanner01.com
+banner-11,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,ftp://,slogan,http://HellowWorldbanner01.com
+banner-12,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,ftp://a,slogan,http://HellowWorldbanner01.com
+banner-13,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://Esta-es-la-url-con-254-caracteres----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,slogan,http://HellowWorldbanner01.com
+banner-14,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://Esta-es-la-url-con-255-caracteres-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,slogan,http://HellowWorldbanner01.com
+banner-15,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,https://A?type=A&name=example.com,slogan,http://HellowWorldbanner01.com
+banner-16,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,https://A?type,slogan,http://HellowWorldbanner01.com
+banner-17,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,file:///path/to/file.txt,slogan,http://HellowWorldbanner01.com
+banner-18,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,mailto:example@example.com?subject=Subject&body=Body,slogan,http://HellowWorldbanner01.com
+banner-19,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://プロジェクト,slogan,http://HellowWorldbanner01.com
+banner-20,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,s,http://HellowWorldbanner01.com
+banner-21,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,sl,http://HellowWorldbanner01.com
+banner-22,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,Esto es un slogan de companía con 74 caracteres --------------------------,http://HellowWorldbanner01.com
+banner-23,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,Esto es un slogan de companía con 75 caracteres ---------------------------,http://HellowWorldbanner01.com
+banner-24,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,プロジェクト,http://HellowWorldbanner01.com
+banner-25,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,<h1>HolaMundo<h1>,http://HellowWorldbanner01.com
+banner-26,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,'OR 'A' = 'A,http://HellowWorldbanner01.com
+banner-27,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,ftp://
+banner-28,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,ftp://a
+banner-29,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://Esta-es-la-url-con-254-caracteres----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+banner-30,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://Esta-es-la-url-con-255-caracteres-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+banner-31,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,https://A?type=A&name=example.com
+banner-32,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,https://A?type
+banner-33,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,file:///path/to/file.txt
+banner-34,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,mailto:example@example.com?subject=Subject&body=Body
+banner-35,2010/06/06 09:10,2022/08/01 00:00,2022/08/11 00:00,http://HellowWorldbanner01.com,slogan,http://プロジェクト

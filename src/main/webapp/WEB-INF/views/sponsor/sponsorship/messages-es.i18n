@@ -1,0 +1,46 @@
+# messages-es.i18n
+#
+# Copyright (C) 2012-2024 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+
+sponsor.sponsorship.list.title = Patrocinios
+sponsor.sponsorship.form.title = Detalles de patrocinios
+
+sponsor.sponsorship.list.label.code = Código
+sponsor.sponsorship.list.label.moment = Momento
+sponsor.sponsorship.list.label.start = Empieza
+sponsor.sponsorship.list.label.finish = Termina
+sponsor.sponsorship.list.label.amount = Cantidad
+sponsor.sponsorship.list.label.type = Tipo
+sponsor.sponsorship.list.label.email = Correo electrónico
+sponsor.sponsorship.list.label.link = Enlace
+sponsor.sponsorship.list.label.published = Publicado
+
+sponsor.sponsorship.form.label.code = Código
+sponsor.sponsorship.form.label.moment = Código
+sponsor.sponsorship.form.label.start = Empieza
+sponsor.sponsorship.form.label.finish = Empieza
+sponsor.sponsorship.form.label.amount = Cantidad
+sponsor.sponsorship.form.label.type = Tipo
+sponsor.sponsorship.form.label.email = Correo electrónico
+sponsor.sponsorship.form.label.link = Enlace	
+sponsor.sponsorship.form.label.published = Publicado
+sponsor.sponsorship.form.error.duplicated = El código del patrocinio está duplicado
+sponsor.sponsorship.form.error.not-equal-amount = La cantidad total de todas las facturas no es igual a la del patrocinio
+
+
+sponsor.sponsorship.form.button.create = Crear patrocinio
+sponsor.sponsorship.list.button.create = Crear patrocinio
+sponsor.sponsorship.form.button.delete = Borrar patrocinio
+sponsor.sponsorship.form.button.update = Actualizar patrocinio
+
+sponsor.sponsorship.form.button.invoice = Factura
+sponsor.sponsorship.form.button.publish = Publicar
+	

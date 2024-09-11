@@ -1,0 +1,23 @@
+# messages-en.i18n
+
+manager.manager-dashboard.form.title = Manager Dashboard
+
+manager.dashboard.form.title.general-indicators = General indicators
+
+manager.dashboard.form.label.totalNumberMustUserStories = 	Total number of "Must" user stories
+manager.dashboard.form.label.totalNumberShouldUserStories = Total number of "Should" user stories
+manager.dashboard.form.label.totalNumberCouldUserStories = Número total de "Could" historias de usuario
+manager.dashboard.form.label.totalNumberWontUserStories = Número total de "Wont" historias de usuario
+manager.dashboard.form.label.averageEstimatedCostUserStories = Estimated average cost of all user stories
+manager.dashboard.form.label.deviationEstimatedCostUserStories = Estimated cost deviation for all user stories
+manager.dashboard.form.label.minimunEstimatedCostUserStories = Minimum estimated cost of all user stories
+manager.dashboard.form.label.maximumEstimatedCostUserStories = Maximum estimated cost of all user stories
+manager.dashboard.form.label.averageCostProjects = Average cost of all projects
+manager.dashboard.form.label.deviationCostProjects = Cost variance of all projects
+manager.dashboard.form.label.minimunCostProjects = Minimum cost of all projects
+manager.dashboard.form.label.maximumCostProjects = Maximum cost of all projects
+
+
+manager.dashboard.form.label.userStories.priority.information = Graphic about the priorities of the user stories
+manager.dashboard.form.label.userStories.information = Graphic about user stories estimated cost (in hours)
+manager.dashboard.form.label.projects.information = Graphic about projects costs (in hours)
